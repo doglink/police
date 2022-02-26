@@ -1,3 +1,2 @@
 # police
-ikigai3
-no war
+plan b
